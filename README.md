@@ -1,0 +1,1 @@
+# const-firebaseConfig-apiKey-AIzaSyDpGrK0t5Nvdz1ip-CRIIMUayHCuun9K1Q-authDomain-project
